@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import "../public/assets/css/main.css";
+@import "../public/assets/vendor/bootstrap/css/bootstrap-grid.css"; 
+@import "../public/assets/vendor/bootstrap/css/bootstrap-grid.min.css";
+@import "../public/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css";
+/* @import "../public/assets/vendor/bootstrap/css/bootstrap-reboot.css";
+@import "../public/assets/vendor/bootstrap/css/bootstrap-reboot.min.css";
+@import "../public/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css";
+@import "../public/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css";
+/* @import "../public/assets/vendor/bootstrap/css/bootstrap-utilities.css"; */
+/* @import "../public/assets/vendor/bootstrap/css/bootstrap-utilities.min.css"; */
+/* @import "../public/assets/vendor/bootstrap/css/bootstrap.css"; */
+/* @import "../public/assets/vendor/bootstrap/css/bootstrap.min.css"; */
+/* @import "../public/assets/vendor/bootstrap/css/bootstrap.rtl.css";
+@import "../public/assets/vendor/bootstrap/css/bootstrap.rtl.min.css"; */

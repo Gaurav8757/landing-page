@@ -1,0 +1,32 @@
+{
+  "site": {
+    "name": "eNno"
+  },
+  "welcome": {
+    "heading": "¡Bienvenido a nuestra aplicación React!",
+    "message": "Esta es una demostración de i18next con React y Vite."
+  },  "counter": {
+    "label": "Contador actual: {{count}}",
+    "label_plural": "Contadores actuales: {{count}}",
+    "increase": "Aumentar contador",
+    "decrease": "Disminuir contador"
+  },
+  "currentDate": "La fecha de hoy es {{date}}",
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "team": "Equipo",
+    "contact": "Contacto",
+    "dropdown": "Desplegable",
+    "dropdown1": "Desplegable 1",
+    "deepDropdown": "Desplegable Profundo",
+    "deepDropdownItem": "Desplegable Profundo {{number}}",
+    "dropdownItem": "Desplegable {{number}}",
+    "getStarted": "Comenzar"
+  },
+  "language": {
+    "switch": "Cambiar idioma a {{language}}"
+  }
+}

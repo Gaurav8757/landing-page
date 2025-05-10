@@ -1,0 +1,32 @@
+{
+  "site": {
+    "name": "eNno"
+  },
+  "welcome": {
+    "heading": "Welcome to our React App!",
+    "message": "This is a demonstration of i18next with React and Vite."
+  },  "counter": {
+    "label": "Current count: {{count}}",
+    "label_plural": "Current counts: {{count}}",
+    "increase": "Increase count",
+    "decrease": "Decrease count"
+  },
+  "currentDate": "Today's date is {{date}}",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "team": "Team",
+    "contact": "Contact",
+    "dropdown": "Dropdown",
+    "dropdown1": "Dropdown 1",
+    "deepDropdown": "Deep Dropdown",
+    "deepDropdownItem": "Deep Dropdown {{number}}",
+    "dropdownItem": "Dropdown {{number}}",
+    "getStarted": "Get Started"
+  },
+  "language": {
+    "switch": "Switch language to {{language}}"
+  }
+}
